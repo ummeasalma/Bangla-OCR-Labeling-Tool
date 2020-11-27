@@ -1,1 +1,0 @@
-# Bangla-OCR-Labeling-Tool
